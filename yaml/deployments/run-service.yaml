@@ -24,7 +24,7 @@ spec:
         app: run-service
     spec:
       containers:
-      - image: public.ecr.aws/o6u7e2l7/bsidesnova2022:mraterma-workshop-application-93044b6c6b8acd54462eb5ba54337b78d19d5f30
+      - image: public.ecr.aws/o6u7e2l7/bsidesnova2022:mraterma-workshop-application-fe3a7058772df061aeb08f75a14959b1e6cb2db7
         imagePullPolicy: Always
         name: pause
         resources: {}
